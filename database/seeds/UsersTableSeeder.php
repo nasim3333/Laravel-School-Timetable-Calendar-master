@@ -18,7 +18,7 @@ class UsersTableSeeder extends Seeder
             ],
             [
                 'id'             => 2,
-                'name'           => 'Teacher',
+                'name'           => 'Syarifah Putri Agustini Alkadri, S.T, M.Kom',
                 'email'          => 'teacher@teacher.com',
                 'password'       => '$2y$10$HvSDJRBDVWwRd18qj5oaQOF0DBXqnZcyFJ4dJA8hcQGAfmyZ7xkei',
                 'remember_token' => null,
@@ -26,7 +26,7 @@ class UsersTableSeeder extends Seeder
             ],
             [
                 'id'             => 3,
-                'name'           => 'Teacher 2',
+                'name'           => 'Asrul Abdullah, S.Kom, M.Cs',
                 'email'          => 'teacher2@teacher2.com',
                 'password'       => '$2y$10$HvSDJRBDVWwRd18qj5oaQOF0DBXqnZcyFJ4dJA8hcQGAfmyZ7xkei',
                 'remember_token' => null,
@@ -34,7 +34,7 @@ class UsersTableSeeder extends Seeder
             ],
             [
                 'id'             => 4,
-                'name'           => 'Teacher 3',
+                'name'           => 'Barry Ceasar Octariadi, S.Kom, M.Cs',
                 'email'          => 'teacher3@teacher3.com',
                 'password'       => '$2y$10$HvSDJRBDVWwRd18qj5oaQOF0DBXqnZcyFJ4dJA8hcQGAfmyZ7xkei',
                 'remember_token' => null,
@@ -42,7 +42,7 @@ class UsersTableSeeder extends Seeder
             ],
             [
                 'id'             => 5,
-                'name'           => 'Teacher 4',
+                'name'           => 'Ryan Permana, S.Kom, B.Sc',
                 'email'          => 'teacher4@teacher4.com',
                 'password'       => '$2y$10$HvSDJRBDVWwRd18qj5oaQOF0DBXqnZcyFJ4dJA8hcQGAfmyZ7xkei',
                 'remember_token' => null,
@@ -50,7 +50,7 @@ class UsersTableSeeder extends Seeder
             ],
             [
                 'id'             => 6,
-                'name'           => 'Teacher 5',
+                'name'           => 'Istikomah, B.Sc, M.I.T',
                 'email'          => 'teacher5@teacher5.com',
                 'password'       => '$2y$10$HvSDJRBDVWwRd18qj5oaQOF0DBXqnZcyFJ4dJA8hcQGAfmyZ7xkei',
                 'remember_token' => null,

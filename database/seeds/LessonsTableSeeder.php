@@ -75,7 +75,7 @@ class LessonsTableSeeder extends Seeder
                 'class_id'   => 1,
                 'weekday'    => 3,
                 'start_time' => '10:00',
-                'end_time'   => '12:00',
+                'end_time'   => '13:30',
             ],
             [
                 'id'         => 9,
@@ -130,8 +130,8 @@ class LessonsTableSeeder extends Seeder
                 'teacher_id' => 2,
                 'class_id'   => 1,
                 'weekday'    => 5,
-                'start_time' => '10:00',
-                'end_time'   => '12:00',
+                'start_time' => '10.00',
+                'end_time'   => '13.30',
             ],
             [
                 'id'         => 16,

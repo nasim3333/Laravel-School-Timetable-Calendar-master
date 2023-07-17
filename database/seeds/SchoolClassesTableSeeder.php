@@ -15,11 +15,15 @@ class SchoolClassesTableSeeder extends Seeder
         $classes = [
             [
                 'id' => 1,
-                'name' => 'First class'
+                'name' => 'Kelas 15'
             ],
             [
                 'id' => 2,
-                'name' => 'Second class'
+                'name' => 'Kelas 16'
+            ],
+            [
+                'id' => 3,
+                'name' => 'Kelas 17'
             ]
         ];
 
